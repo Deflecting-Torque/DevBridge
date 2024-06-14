@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fbba61bc6fc26a139f8c",
+    "revision": "9d130caf2b60d8c611bd",
     "url": "/DevBridge/static/css/main.2e5cba09.chunk.css"
   },
   {
-    "revision": "fbba61bc6fc26a139f8c",
-    "url": "/DevBridge/static/js/main.e025941c.chunk.js"
+    "revision": "9d130caf2b60d8c611bd",
+    "url": "/DevBridge/static/js/main.97c06063.chunk.js"
   },
   {
     "revision": "17d8f416a174eeac9872",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/DevBridge/static/media/h3.8e010298.png"
   },
   {
-    "revision": "bb3c36fbce75da77f2ec4c4952f61277",
+    "revision": "612a3b0d3052d3cd6714bc24dfd6e89c",
     "url": "/DevBridge/index.html"
   }
 ];
