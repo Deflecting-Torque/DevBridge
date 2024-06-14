@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/DevBridge/static/media/h3.8e010298.png"
   },
   {
-    "revision": "1c9712b0a7a69df3e6c3a2fcc28fb290",
+    "revision": "ebdbb18058134d92b8836dfe853ebefb",
     "url": "/DevBridge/index.html"
   }
 ];
